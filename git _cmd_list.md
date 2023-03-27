@@ -1,17 +1,20 @@
 
 # git and git hub
 
->  git areas <br>
+> ### git areas <br>
+>  
 ![enter image description here](https://github.com/HtunSoeHsan/GitNote/blob/main/img/gitarea.PNG?raw=true)
 
->  git workflow<br>
+> ###  git workflow<br>
+>  
 ![enter image description here](https://github.com/HtunSoeHsan/GitNote/blob/main/img/git-workflow.png?raw=true)
 
 git မှာ area ၃ ခု ရှိပါတယ်
 1. working directory( အလုပ်လုပ်နေသောနေရာ )
 2. staging area (ပြောင်းလဲမှုတွေကိုယာယီသိမ်းပေးပြီးမှတ်တမ်းတင်ပေးတဲ့နေရာ)
 3. repository (မှတ်တမ်းတင်ထားတဲ့ ပြောင်းလဲမှုတွေကို စုစည်းသိမ်းဆည်းတဲ့နေရာ)
->git cmd lists<br>
+> ### git cmd lists<br>
+>
 - `git init `- git ကို project folder ထဲတွင် စတင်သည်။
 - `git add file_name` - working directory မှ file ကို staging area သို့ ပို့သည်။
 - `git add . `- working directory မှ file အားလုံး ကို  staging area သို့ ပို့သည်။
