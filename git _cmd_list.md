@@ -8,21 +8,19 @@
  GitHub ဆိုတာ microsoft ကပိုင်တဲ့(git system ကိုသုံးထားတဲ့) web application တစ်ခုဖြစ်ပါတယ်။ project တစ်ခုကို Team လိုက် လုပ်တဲ့အခါ source code တွေကို sharing လုပ်နိုင်ဖို့သုံးပါတယ်။
 >**Note:** programming လုပ်မယ်ဆို git နဲ့ github အကြောင်းကိုသိ	     ကိုသိရပါမယ်။
 
-	
-
-
-
 >  git areas <br>
 ![enter image description here](https://github.com/HtunSoeHsan/GitNote/blob/main/img/gitarea.PNG?raw=true)
 
->  git workflow<br>
+> ###  git workflow<br>
+>  
 ![enter image description here](https://github.com/HtunSoeHsan/GitNote/blob/main/img/git-workflow.png?raw=true)
 
 git မှာ area ၃ ခု ရှိပါတယ်
 1. working directory( အလုပ်လုပ်နေသောနေရာ )
 2. staging area (ပြောင်းလဲမှုတွေကိုယာယီသိမ်းပေးပြီးမှတ်တမ်းတင်ပေးတဲ့နေရာ)
 3. repository (မှတ်တမ်းတင်ထားတဲ့ ပြောင်းလဲမှုတွေကို စုစည်းသိမ်းဆည်းတဲ့နေရာ)
->git cmd lists<br>
+> ### git cmd lists<br>
+>
 - `git init `- git ကို project folder ထဲတွင် စတင်သည်။
 - `git add file_name` - working directory မှ file ကို staging area သို့ ပို့သည်။
 - `git add . `- working directory မှ file အားလုံး ကို  staging area သို့ ပို့သည်။
